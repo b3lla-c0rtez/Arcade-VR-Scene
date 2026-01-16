@@ -1,0 +1,7 @@
+To move around in the VR scene:
+
+--have headset on
+--use the right joystick to determine where to teleport to 
+--to get the door to work, just place your hand by the door and it should trigger the overlap 
+--to get the coin push to work, same thing just place your hand on the green circle for it and you can see the coins work 
+--to leave the VR executable, hit escape key
